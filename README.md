@@ -97,4 +97,4 @@ python calc_dist.py
 
 ## お問い合わせ
 
-何か質問やご意見があれば、[renhoript@gmail.com](mailto:renhoript@gmail.com) までお気軽にお知らせください。
+何か質問やご意見があれば、[renhoript@gmail.com](<mailto:renhoript@gmail.com>) までお気軽にお知らせください。
