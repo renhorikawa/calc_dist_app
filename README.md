@@ -72,7 +72,7 @@ pip install opencv-python
 ![demo3](https://github.com/renhorikawa/calc_dist_app/blob/main/assets/8.jpg)
 
 
-ファイルパスが長くなったり、複雑になるとプログラムが正しく動作しない場合があるので、動画ファイルは先ほどダウンロードしたcalc_dist.pyというファイルと同じフォルダ内に入れておくことをお勧めします。
+動画ファイルは先ほどダウンロードしたcalc_dist.pyというファイルと同じフォルダ内に入れておくことをお勧めします。
 
 ### 3. プログラムの実行
 動画切り取りのプログラムを起動して実行します。
