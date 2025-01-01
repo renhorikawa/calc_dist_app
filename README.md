@@ -88,9 +88,9 @@ python calc_dist.py
   ![demo6](https://github.com/renhorikawa/calc_dist_app/blob/main/assets/3.png) 
 
 4. うまくいくと、コマンドプロンプトはこのような表示になっているはずです。クリックした座標2つの位置と、ピクセルとしての全距離、1ピクセルあたりの距離（mm）が出力されます。
+
   ![demo7](https://github.com/renhorikawa/calc_dist_app/blob/main/assets/4.png) 
 
-   <br> 
    ※途中で止める場合には、コマンドプロンプト上で「Ctrl + C」キーを入力してプログラムを終了してください。
 
 
